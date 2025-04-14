@@ -1,1 +1,7 @@
+# Virtual Environment
 djangoStudies_env/
+venv/
+env/
+*.pyc
+__pycache__/
+*.env
