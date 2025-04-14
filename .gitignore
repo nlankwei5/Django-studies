@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+ENV/
+djangoStudies_env/  # Add your specific virtual environment name
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+*.env
+
+# Database
+*.sqlite3
+*.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
