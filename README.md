@@ -33,6 +33,10 @@ This is my study repo for Backend dev with Django. I will share what i learn fro
 
 - I have learnt to Update user Profile information  and also resizing profile images. so we don't worry the filesystem if images are too large.
 
+## Day 5
+
+- I learnt to add CRUD operations to the blog posts for authorized users to create, update or delete post for themsleves and not other users. also they have to login to make those changes. 
+i learnt them by using class-based views. 
 
 
 
