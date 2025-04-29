@@ -38,5 +38,9 @@ This is my study repo for Backend dev with Django. I will share what i learn fro
 - I learnt to add CRUD operations to the blog posts for authorized users to create, update or delete post for themsleves and not other users. also they have to login to make those changes. 
 i learnt them by using class-based views. 
 
+- I learnt how to use pagination so we dont have to scroll a lot to see posts. I also created a page for posts created by a specific user
+
+
+
 
 
