@@ -40,7 +40,11 @@ i learnt them by using class-based views.
 
 - I learnt how to use pagination so we dont have to scroll a lot to see posts. I also created a page for posts created by a specific user
 
+## Day 6 Final day
 
+- i leanrt how we can use email to send a password reset link to a user so that the user can reset their password. Users will be able to fill out a form with their email and have a unique token sent to them, and if their token is verified then they will be able to create a new password
+
+ 
 
 
 
